@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN STACK
 - 📫 to reach me:email:bussinessguy59059@gmail.com
 - 😄 Pronouns:he/him
-- ⚡ Fun fact:
+- ⚡ Fun fact: fun fact
 
 <!---
 FarrukhHGithub/FarrukhHGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farrukh hussain
 - 👀 I’m interested in Webdevelopment
-- 📫 to reach me: email: bussinessguy59059@gmail.com
+- 📫 to reach me: email: bussinessguy5909@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fun fact
 

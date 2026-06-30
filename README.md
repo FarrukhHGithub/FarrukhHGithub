@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Farrukh hussain
 - 👀 I’m interested in Webdevelopment
-- 🌱 I’m currently learning MERN STACK
 - 📫 to reach me: email: bussinessguy59059@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fun fact

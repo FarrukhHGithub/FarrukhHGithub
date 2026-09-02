@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Farrukh Hussain
 
 **Software Developer** building fast, scalable web applications end-to-end — from frontend to deployment
 
@@ -14,11 +14,11 @@
 
 I'm a software developer specializing in full-stack web development with **Next.js** and **Node.js**. Beyond writing code, I also handle deployment and server management — I self-host and manage production apps on a **Hostinger VPS**, so I'm comfortable across the whole pipeline from frontend to backend to infrastructure. I've completed **4+ full production deployments** across different industries, from cultural institutions to hospitality and food service.
 
-- 🔭 Currently working on: **[Project Name]**
-- 🌱 Learning: **[Tech/skill]**
+- 🔭 Currently working on: **AffliatedHouse**
+- 🌱 Learning: **Ai-Automations**
 - ⚙️ Comfortable with: **VPS setup, deployment & server management**
 - 💬 Ask me about: **Next.js, full-stack architecture, self-hosting**
-- 📫 Reach me at: **you@email.com**
+- 📫 Reach me at: **bussinessguy5909@email.com**
 
 ---
 
@@ -34,23 +34,23 @@ I'm a software developer specializing in full-stack web development with **Next.
 
 ### Experience / Deployed Projects
 
-**Museum Website** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/museum-site)
+**Museum Website** — [Live Site]([https://link.com](https://www.yousufhussainabadimuseum.com/))
 Full-stack site built for a museum, covering exhibits, information pages, and visitor content. Deployed and self-hosted on a Hostinger VPS.
 `Tech: Next.js, Node.js, Hostinger VPS`
 
-**Clinic Website** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/clinic-site)
+**Clinic Website** — [Live Site](https://link.com)
 Website for a medical clinic including services, appointment info, and contact/booking flow.
 `Tech: Next.js, Node.js, Hostinger VPS`
 
-**Tour Project #1** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/tour-project-1)
+**Tour Project #1** — [Live Site](https://link.com)
 Travel/tour booking site with listings and itinerary details for customers.
 `Tech: Next.js, Node.js, Hostinger VPS`
 
-**Tour Project #2** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/tour-project-2)
+**Tour Project #2** — [Live Site](https://link.com)
 Second tour/travel platform, built for a different client with custom booking and itinerary features.
 `Tech: Next.js, Node.js, Hostinger VPS`
 
-**Fast Food Stall Website** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/fast-food-stall)
+**Fast Food Stall Website** — [Live Site](https://link.com)
 Menu and ordering site for a fast food business, including product listings and order flow.
 `Tech: Next.js, Node.js, Hostinger VPS`
 

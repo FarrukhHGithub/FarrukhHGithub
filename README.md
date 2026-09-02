@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hi, I'm Farrukh Hussain
+# Hi, I'm [Your Name] 👋
 
 **Software Developer** building fast, scalable web applications end-to-end — from frontend to deployment
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bussinessguy5909@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
 
 </div>
 
@@ -11,13 +12,13 @@
 
 ### About Me
 
-I'm a software developer specializing in full-stack web development with **Next.js** and **Node.js**. Beyond writing code, I also handle deployment and server management — I self-host and manage production apps on a **Hostinger VPS**, so I'm comfortable across the whole pipeline from frontend to backend to infrastructure.
+I'm a software developer specializing in full-stack web development with **Next.js** and **Node.js**. Beyond writing code, I also handle deployment and server management — I self-host and manage production apps on a **Hostinger VPS**, so I'm comfortable across the whole pipeline from frontend to backend to infrastructure. I've completed **4+ full production deployments** across different industries, from cultural institutions to hospitality and food service.
 
-- 🔭 Currently working on: **AffliatedHouse**
-- 🌱 Learning: **ai Automations**
+- 🔭 Currently working on: **[Project Name]**
+- 🌱 Learning: **[Tech/skill]**
 - ⚙️ Comfortable with: **VPS setup, deployment & server management**
 - 💬 Ask me about: **Next.js, full-stack architecture, self-hosting**
-- 📫 Reach me at: **bussinessguy5909@gmail.com**
+- 📫 Reach me at: **you@email.com**
 
 ---
 
@@ -31,6 +32,30 @@ I'm a software developer specializing in full-stack web development with **Next.
 
 ---
 
+### Experience / Deployed Projects
+
+**Museum Website** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/museum-site)
+Full-stack site built for a museum, covering exhibits, information pages, and visitor content. Deployed and self-hosted on a Hostinger VPS.
+`Tech: Next.js, Node.js, Hostinger VPS`
+
+**Clinic Website** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/clinic-site)
+Website for a medical clinic including services, appointment info, and contact/booking flow.
+`Tech: Next.js, Node.js, Hostinger VPS`
+
+**Tour Project #1** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/tour-project-1)
+Travel/tour booking site with listings and itinerary details for customers.
+`Tech: Next.js, Node.js, Hostinger VPS`
+
+**Tour Project #2** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/tour-project-2)
+Second tour/travel platform, built for a different client with custom booking and itinerary features.
+`Tech: Next.js, Node.js, Hostinger VPS`
+
+**Fast Food Stall Website** — [Live Site](https://link.com) · [Repo](https://github.com/yourusername/fast-food-stall)
+Menu and ordering site for a fast food business, including product listings and order flow.
+`Tech: Next.js, Node.js, Hostinger VPS`
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -40,21 +65,8 @@ I'm a software developer specializing in full-stack web development with **Next.
 
 ---
 
-### Featured Projects
-
-**[Project Name](https://github.com/FarrukhHGithub/AffliatedHouse
-)**
-Full-stack app built with Next.js, deployed and self-hosted on a Hostinger VPS with Nginx as reverse proxy.
-`Tech: Next.js, Node.js, PostgreSQL, Hostinger VPS`
-
-**[Project Name](https://github.com/yourusername/project)**
-Short one-line description of what it does and the impact/result.
-`Tech: React, Express, Docker`
-
----
-
 <div align="center">
 
-*Thanks for stopping by! Feel free to explore my repos or connect.*
+*Thanks for stopping by! Feel free to explore my repos or connect via email.*
 
 </div>

@@ -2,7 +2,7 @@
 
 # Hi, I'm [Your Name] 👋
 
-**Software Developer** building [what you build — e.g. scalable web apps / backend systems]
+**Software Developer** building fast, scalable web applications end-to-end — from frontend to deployment
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
@@ -14,11 +14,12 @@
 
 ### About Me
 
-I'm a software developer with experience in [X years / domain, e.g. full-stack web development]. I enjoy [what you're into — building tools, solving performance problems, open source, etc.]. Currently focused on [what you're learning or working on now].
+I'm a software developer specializing in full-stack web development with **Next.js** and **Node.js**. Beyond writing code, I also handle deployment and server management — I self-host and manage production apps on a **Hostinger VPS**, so I'm comfortable across the whole pipeline from frontend to backend to infrastructure.
 
 - 🔭 Currently working on: **[Project Name]**
 - 🌱 Learning: **[Tech/skill]**
-- 💬 Ask me about: **[Your strengths]**
+- ⚙️ Comfortable with: **VPS setup, deployment & server management**
+- 💬 Ask me about: **Next.js, full-stack architecture, self-hosting**
 - 📫 Reach me at: **you@email.com**
 
 ---
@@ -27,9 +28,9 @@ I'm a software developer with experience in [X years / domain, e.g. full-stack w
 
 **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 
-**Frameworks:** ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express)
+**Frameworks:** ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express)
 
-**Tools:** ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-333?style=flat-square&logo=amazon-aws)
+**Infrastructure & Tools:** ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker) ![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat-square&logo=nginx) ![Hostinger](https://img.shields.io/badge/-Hostinger%20VPS-333?style=flat-square&logo=hostinger) ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
 
 ---
 
@@ -45,12 +46,12 @@ I'm a software developer with experience in [X years / domain, e.g. full-stack w
 ### Featured Projects
 
 **[Project Name](https://github.com/yourusername/project)**
-Short one-line description of what it does and the impact/result.
-`Tech: React, Node.js, PostgreSQL`
+Full-stack app built with Next.js, deployed and self-hosted on a Hostinger VPS with Nginx as reverse proxy.
+`Tech: Next.js, Node.js, PostgreSQL, Hostinger VPS`
 
 **[Project Name](https://github.com/yourusername/project)**
 Short one-line description of what it does and the impact/result.
-`Tech: Python, Flask, Docker`
+`Tech: React, Express, Docker`
 
 ---
 

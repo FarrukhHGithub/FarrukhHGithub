@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Farrukh Hussain
 
 **Software Developer** building fast, scalable web applications end-to-end — from frontend to deployment
 

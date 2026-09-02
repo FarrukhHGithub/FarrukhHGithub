@@ -16,11 +16,11 @@
 
 I'm a software developer specializing in full-stack web development with **Next.js** and **Node.js**. Beyond writing code, I also handle deployment and server management — I self-host and manage production apps on a **Hostinger VPS**, so I'm comfortable across the whole pipeline from frontend to backend to infrastructure.
 
-- 🔭 Currently working on: **[Project Name]**
-- 🌱 Learning: **[Tech/skill]**
+- 🔭 Currently working on: **AffliatedHouse**
+- 🌱 Learning: **ai Automations**
 - ⚙️ Comfortable with: **VPS setup, deployment & server management**
 - 💬 Ask me about: **Next.js, full-stack architecture, self-hosting**
-- 📫 Reach me at: **you@email.com**
+- 📫 Reach me at: **bussinessguy5909@gmail.com**
 
 ---
 

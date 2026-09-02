@@ -45,7 +45,8 @@ I'm a software developer specializing in full-stack web development with **Next.
 
 ### Featured Projects
 
-**[Project Name](https://github.com/yourusername/project)**
+**[Project Name](https://github.com/FarrukhHGithub/AffliatedHouse
+)**
 Full-stack app built with Next.js, deployed and self-hosted on a Hostinger VPS with Nginx as reverse proxy.
 `Tech: Next.js, Node.js, PostgreSQL, Hostinger VPS`
 

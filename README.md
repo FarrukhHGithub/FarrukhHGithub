@@ -56,11 +56,6 @@ Menu and ordering site for a fast food business, including product listings and 
 
 ---
 
-### Commit Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/2f81f7/FarrukhHGithub" alt="FarrukhHGithub's GitHub contribution graph" />
-</div>
 
 ---
 

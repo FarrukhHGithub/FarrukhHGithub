@@ -1,39 +1,61 @@
-<h1 align="center">Hi there, I'm farrukh hussain 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Software+Developer;Always+learning+something+new;Open+to+collaboration" alt="Typing SVG" />
-  </a>
-</p>
+# Hi, I'm [Your Name] 👋
 
-### 🔧 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-<!-- Add/remove badges for your actual stack: https://shields.io -->
+**Software Developer** building [what you build — e.g. scalable web apps / backend systems]
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
-</p>
+</div>
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" />
-</p>
+---
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-</p>
+### About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views" />
-</p>
+I'm a software developer with experience in [X years / domain, e.g. full-stack web development]. I enjoy [what you're into — building tools, solving performance problems, open source, etc.]. Currently focused on [what you're learning or working on now].
+
+- 🔭 Currently working on: **[Project Name]**
+- 🌱 Learning: **[Tech/skill]**
+- 💬 Ask me about: **[Your strengths]**
+- 📫 Reach me at: **you@email.com**
+
+---
+
+### Tech Stack
+
+**Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+
+**Frameworks:** ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express)
+
+**Tools:** ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-333?style=flat-square&logo=amazon-aws)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&title_color=2f81f7&icon_color=2f81f7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&title_color=2f81f7" />
+</div>
+
+---
+
+### Featured Projects
+
+**[Project Name](https://github.com/yourusername/project)**
+Short one-line description of what it does and the impact/result.
+`Tech: React, Node.js, PostgreSQL`
+
+**[Project Name](https://github.com/yourusername/project)**
+Short one-line description of what it does and the impact/result.
+`Tech: Python, Flask, Docker`
+
+---
+
+<div align="center">
+
+*Thanks for stopping by! Feel free to explore my repos or connect.*
+
+</div>

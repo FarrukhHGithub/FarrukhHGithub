@@ -56,11 +56,10 @@ Menu and ordering site for a fast food business, including product listings and 
 
 ---
 
-### GitHub Stats
+### Commit Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FarrukhHGithub&show_icons=true&theme=default&hide_border=true&title_color=2f81f7&icon_color=2f81f7" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrukhHGithub&layout=compact&theme=default&hide_border=true&title_color=2f81f7" />
+  <img src="https://ghchart.rshah.org/2f81f7/FarrukhHGithub" alt="FarrukhHGithub's GitHub contribution graph" />
 </div>
 
 ---

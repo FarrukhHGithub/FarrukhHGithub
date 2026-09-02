@@ -34,23 +34,23 @@ I'm a software developer specializing in full-stack web development with **Next.
 
 ### Experience / Deployed Projects
 
-**Museum Website** — [Live Site]([https://link.com](https://www.yousufhussainabadimuseum.com/))
+**Museum Website** — [Live Site](https://www.yousufhussainabadimuseum.com)
 Full-stack site built for a museum, covering exhibits, information pages, and visitor content. Deployed and self-hosted on a Hostinger VPS.
 `Tech: Next.js, Node.js, Hostinger VPS`
 
-**Clinic Website** — [Live Site](https://link.com)
+**Clinic Website** — [Live Site](https://www.avicenahealthcare.com)
 Website for a medical clinic including services, appointment info, and contact/booking flow.
 `Tech: Next.js, Node.js, Hostinger VPS`
 
-**Tour Project #1** — [Live Site](https://link.com)
+**Tour Project #1** — [Live Site](https://www.northscapepakistan.com)
 Travel/tour booking site with listings and itinerary details for customers.
 `Tech: Next.js, Node.js, Hostinger VPS`
 
-**Tour Project #2** — [Live Site](https://link.com)
+**Tour Project #2** — [Live Site](https://www.mountaintravels.com)
 Second tour/travel platform, built for a different client with custom booking and itinerary features.
 `Tech: Next.js, Node.js, Hostinger VPS`
 
-**Fast Food Stall Website** — [Live Site](https://link.com)
+**Fast Food Stall Website** — [Live Site](https://mashallahmantu.vercel.app)
 Menu and ordering site for a fast food business, including product listings and order flow.
 `Tech: Next.js, Node.js, Hostinger VPS`
 

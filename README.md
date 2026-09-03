@@ -1,5 +1,3 @@
-## 📄 Resume Summary
-
 ### Professional Summary
 Full-Stack Developer with 2+ years of experience building and deploying production-ready web applications using Next.js, Node.js, and self-managed VPS infrastructure. Skilled in delivering complete client projects — from frontend design to backend logic to live deployment — across industries including healthcare, tourism, and food service.
 

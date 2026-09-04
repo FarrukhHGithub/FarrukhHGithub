@@ -22,7 +22,7 @@ Collaborated with a team of 4 developers to ship features on a two-week sprint c
 Reduced page load time by 25% through code optimization and lazy loading techniques
 
 ### Education
-**[dummy] Bachelor of Science in Computer Science**
+Bachelor of Science in Computer Science**
 [Dummy University Name] — Graduated [2023]
 
 ### Certifications *(optional — add if you have any)*

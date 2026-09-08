@@ -15,16 +15,16 @@ Full-Stack Developer with 2+ years of experience building and deploying producti
 - Developed two separate tour/travel booking platforms with custom itinerary and booking logic for different clients
 - Created a fast food ordering website with a menu and order management system, supporting the client's online order volume
 
-Junior Web Developer* — [Dummy Company Name] · [City, Country]
-*Jun 2023 – Dec 2023*
+Junior Web Developer* — NetBots · Skardu,Pakistan
+*Jun 2024 – Dec 2025*
 Assisted in developing and maintaining 3+ internal web tools using React and Node.js
 Collaborated with a team of 4 developers to ship features on a two-week sprint cycle
 Reduced page load time by 25% through code optimization and lazy loading techniques
 
 ### Education
 Bachelor of Science in Computer Science**
-[Dummy University Name] — Graduated [2023]
+Virtual University of Pakistan—in progress
 
 ### Certifications *(optional — add if you have any)*
-- [dummy] Next.js & React – Full Stack Development, [Platform Name], [Year]
-- [dummy] Linux Server Administration, [Platform Name], [Year]
+ Next.js & React – Full Stack Development, [Platform Name], [Year]
+Linux Server Administration, [Platform Name], [Year]

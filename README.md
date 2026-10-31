@@ -1,10 +1,10 @@
 # Professional Summary
 Full-Stack Developer with 2+ years of experience building and deploying production-ready web applications using Next.js, Node.js, and self-managed VPS infrastructure. Skilled in delivering complete client projects — from frontend design to backend logic to live deployment — across industries including healthcare,museum, tourism, and food service.
 
-##Skills
+#Skills
 `Next.js` `React.js` `Node.js` `Express.js` `JavaScript (ES6+)` `TypeScript` `REST APIs` `PostgreSQL / MongoDB` `Docker` `Nginx` `Linux Server Administration` `Git & GitHub` `Problem Solving` `Client Communication`
 
-### Work Experience
+# Work Experience
 
 **Freelance Full-Stack Developer** — Self-Employed · Remote
 *Jan 2024 – Present*

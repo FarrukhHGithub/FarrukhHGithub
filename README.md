@@ -21,7 +21,7 @@ Assisted in developing and maintaining 3+ internal web tools using React and Nod
 Collaborated with a team of 4 developers to ship features on a two-week sprint cycle
 Reduced page load time by 25% through code optimization and lazy loading techniques
 
-### Education
+#Education
 Bachelor of Science in Computer Science**
 Virtual University of Pakistan—in progress
 

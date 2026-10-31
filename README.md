@@ -25,6 +25,6 @@ Reduced page load time by 25% through code optimization and lazy loading techniq
 Bachelor of Science in Computer Science**
 Virtual University of Pakistan—in progress
 
-### Certifications
+#Certifications
  Next.js & React – Full Stack Development
 Linux Server Administration,
